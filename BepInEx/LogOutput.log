@@ -1,0 +1,190 @@
+[Message:   BepInEx] BepInEx 5.4.19.0 - valheim (26/04/2022 05:03:36)
+[Info   :   BepInEx] Running under Unity v2019.4.31.12409535
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.19.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 14 plugins to load
+[Info   :   BepInEx] Loading [AlweStats 4.2.2]
+[Info   : AlweStats] AlweStats loaded successfully !
+[Info   :   BepInEx] Loading [AzuAntiCheat 1.5.0]
+[Info   :   BepInEx] Loading [FarmGrid 0.2.0]
+[Info   :   BepInEx] Loading [FloatingItems 1.0.0]
+[Info   :   BepInEx] Loading [Use Equipment in Water 0.2.2.0]
+[Info   :   BepInEx] Loading [MultiUserChest 0.1.3]
+[Info   :   BepInEx] Loading [Project Auga 1.0.10]
+[Info   : Unity Log] 04/27/2022 14:18:30: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 04/27/2022 14:18:30: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 04/27/2022 14:18:30: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 04/27/2022 14:18:30: Loaded localization CSV:localization_extra language:English
+
+[Info   :   BepInEx] Loading [Better Archery 1.7.6]
+[Info   :   BepInEx] Loading [OdinShip 0.0.7]
+[Info   :   BepInEx] Loading [Sailing 1.1.0]
+[Info   :   BepInEx] Loading [Valheim Plus 0.9.9.8]
+[Info   :Valheim Plus] Trying to load the configuration file
+[Info   : Unity Log] Loading config section AdvancedBuildingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section AdvancedEditingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Bed
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Beehive
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Building
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Deconstruct
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Inventory
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Items
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Fermenter
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FireSource
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Food
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Smelter
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Furnace
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Hotkeys
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Kiln
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Windmill
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section SpinningWheel
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Map
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Player
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Server
+[Info   : Unity Log]  Loading key maxPlayers
+[Info   : Unity Log]  Loading key disableServerPassword
+[Info   : Unity Log]  Loading key enforceMod
+[Info   : Unity Log]  Loading key serverSyncsConfig
+[Info   : Unity Log]  Loading key serverSyncHotkeys
+[Info   : Unity Log] Loading config section Stamina
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StaminaUsage
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Workbench
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Time
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Ward
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StructuralIntegrity
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Tameable
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Hud
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Experience
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Camera
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Game
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Wagon
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Gathering
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Pickable
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Durability
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Armor
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FreePlacementRotation
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Shields
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FirstPerson
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section GridAlignment
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section CraftFromChest
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section ValheimPlus
+[Info   : Unity Log]  Loading key mainMenuLogo
+[Info   : Unity Log]  Loading key serverBrowserAdvertisement
+[Info   : Unity Log] Loading config section PlayerProjectile
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section MonsterProjectile
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section GameClock
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Brightness
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Chat
+[Info   : Unity Log]  Section not enabled
+[Info   :Valheim Plus] Configuration file loaded succesfully.
+[Info   :Valheim Plus] ValheimPlus [0.9.9.8] is up to date.
+[Info   :   BepInEx] Loading [Mod Config Enforcer 2.1.2]
+[Info   :   BepInEx] Loading [Advanced Boating 0.4.1]
+[Info   :   BepInEx] Loading [Equipment and Quick Slots 2.0.14]
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] 04/27/2022 14:18:35: Starting to load scene:start
+
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Info   : Unity Log] 04/27/2022 14:18:39: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 04/27/2022 14:18:39: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 04/27/2022 14:18:39: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 04/27/2022 14:18:39: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 04/27/2022 14:18:39: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 04/27/2022 14:18:39: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 04/27/2022 14:18:39: Using steam_appid.txt
+
+[Info   : Unity Log] 04/27/2022 14:18:39: Using steam APPID:892970
+
+[Info   : Unity Log] 04/27/2022 14:18:39: Authentication:k_ESteamNetworkingAvailability_Attempting
+
+[Info   : Unity Log] 04/27/2022 14:18:39: Steam initialized, persona:dirtytomat0
+
+[Info   : Unity Log] 04/27/2022 14:18:39: Using default prefs
+
+[Info   : Unity Log] 04/27/2022 14:18:39: Valheim version:0.208.1@0.9.9.8
+
+[Info   : Unity Log] 04/27/2022 14:18:39: Render threading mode:MultiThreaded
+
+[Warning: Unity Log] 04/27/2022 14:18:39: Missing audio clip in music respawn
+
+[Info   : Unity Log] 04/27/2022 14:18:39: Checking for installed DLCs
+
+[Info   : Unity Log] 04/27/2022 14:18:39: DLC:beta installed:False
+
+[Info   : Unity Log] [PrefabCreator] Skipped recipe: LeatherQuiver
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ArrowWoodAnywhere
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FireArrowTransform
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_PoisonArrowTransform
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverArrowTransform
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FrostArrowTransform
+[Info   : Unity Log] 04/27/2022 14:18:40: Vis equip model set to 1
+
+[Info   : Unity Log] 04/27/2022 14:18:40: UI Group status changed Menu = False
+
+[Info   : Unity Log] 04/27/2022 14:18:40: Vis equip model set to 1
+
+[Info   : Unity Log] 04/27/2022 14:18:40: Vis equip model set to 1
+
+[Info   : Unity Log] 04/27/2022 14:18:43: UI Group status changed Menu = True
+

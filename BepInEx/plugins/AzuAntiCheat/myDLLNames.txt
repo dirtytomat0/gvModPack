@@ -1,0 +1,14 @@
+AlweStats.dll
+AzuAntiCheat.dll
+FarmGrid.dll
+FloatingItems.dll
+UseEquipmentInWater.dll
+MultiUserChest.dll
+Auga.dll
+BetterArchery.dll
+OdinShip.dll
+Sailing.dll
+ValheimPlus.dll
+ModConfigEnforcer.dll
+AdvancedBoating.dll
+EquipmentAndQuickSlots.dll
