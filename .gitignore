@@ -3,3 +3,4 @@ BepInEx/LogOutput.log
 BepInEx/plugins/AzuAntiCheat/myBepInNames.txt
 BepInEx/plugins/AzuAntiCheat/myDLLNames.txt
 BepInEx/plugins/MultiUserChest-log.txt
+BepInEx/cache/*

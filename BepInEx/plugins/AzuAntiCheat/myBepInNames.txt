@@ -1,13 +1,18 @@
-Auto Fuel
 AlweStats
 AzuAntiCheat
+CraftyCarts
 FarmGrid
+Jotunn
+ValheimRAFT
 FloatingItems
 Use Equipment in Water
 MultiUserChest
 Project Auga
 Better Archery
+PlanBuild
 OdinShip
+AllTameable-Overhaul
+BeastsOfBurden
 Sailing
 Valheim Plus
 Mod Config Enforcer
