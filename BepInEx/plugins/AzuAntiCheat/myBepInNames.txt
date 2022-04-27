@@ -1,3 +1,4 @@
+Auto Fuel
 AlweStats
 AzuAntiCheat
 FarmGrid

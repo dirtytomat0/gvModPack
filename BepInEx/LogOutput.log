@@ -10,7 +10,8 @@
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 14 plugins to load
+[Info   :   BepInEx] 15 plugins to load
+[Info   :   BepInEx] Loading [Auto Fuel 0.9.3]
 [Info   :   BepInEx] Loading [AlweStats 4.2.2]
 [Info   : AlweStats] AlweStats loaded successfully !
 [Info   :   BepInEx] Loading [AzuAntiCheat 1.5.0]
@@ -19,13 +20,13 @@
 [Info   :   BepInEx] Loading [Use Equipment in Water 0.2.2.0]
 [Info   :   BepInEx] Loading [MultiUserChest 0.1.3]
 [Info   :   BepInEx] Loading [Project Auga 1.0.10]
-[Info   : Unity Log] 04/27/2022 14:28:11: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 04/27/2022 14:47:17: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 04/27/2022 14:28:11: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 04/27/2022 14:47:17: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 04/27/2022 14:28:11: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 04/27/2022 14:47:17: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 04/27/2022 14:28:11: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 04/27/2022 14:47:17: Loaded localization CSV:localization_extra language:English
 
 [Info   :   BepInEx] Loading [Better Archery 1.7.6]
 [Info   :   BepInEx] Loading [OdinShip 0.0.7]
@@ -137,80 +138,40 @@
 [Info   :   BepInEx] Loading [Advanced Boating 0.4.1]
 [Info   :   BepInEx] Loading [Equipment and Quick Slots 2.0.14]
 [Message:   BepInEx] Chainloader startup complete
-[Info   : Unity Log] 04/27/2022 14:28:16: Starting to load scene:start
+[Info   : Unity Log] 04/27/2022 14:47:22: Starting to load scene:start
 
 [Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-[Info   : Unity Log] 04/27/2022 14:28:19: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 04/27/2022 14:47:25: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 04/27/2022 14:28:19: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 04/27/2022 14:47:25: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 04/27/2022 14:28:19: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 04/27/2022 14:47:25: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 04/27/2022 14:28:19: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 04/27/2022 14:47:25: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 04/27/2022 14:28:20: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 04/27/2022 14:47:25: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 04/27/2022 14:28:20: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 04/27/2022 14:47:25: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 04/27/2022 14:28:20: Using steam_appid.txt
+[Info   : Unity Log] 04/27/2022 14:47:25: Using steam_appid.txt
 
-[Info   : Unity Log] 04/27/2022 14:28:20: Using steam APPID:892970
+[Info   : Unity Log] 04/27/2022 14:47:25: Using steam APPID:892970
 
-[Info   : Unity Log] 04/27/2022 14:28:20: Authentication:k_ESteamNetworkingAvailability_Attempting
+[Info   : Unity Log] 04/27/2022 14:47:26: Authentication:k_ESteamNetworkingAvailability_Attempting
 
-[Info   : Unity Log] 04/27/2022 14:28:20: Steam initialized, persona:dirtytomat0
+[Info   : Unity Log] 04/27/2022 14:47:26: Steam initialized, persona:dirtytomat0
 
-[Info   : Unity Log] 04/27/2022 14:28:20: Using default prefs
+[Info   : Unity Log] 04/27/2022 14:47:26: Using default prefs
 
-[Info   : Unity Log] 04/27/2022 14:28:20: Valheim version:0.208.1@0.9.9.8
+[Info   : Unity Log] 04/27/2022 14:47:26: Valheim version:0.208.1@0.9.9.8
 
-[Info   : Unity Log] 04/27/2022 14:28:20: Render threading mode:MultiThreaded
+[Info   : Unity Log] 04/27/2022 14:47:26: Render threading mode:MultiThreaded
 
-[Warning: Unity Log] 04/27/2022 14:28:20: Missing audio clip in music respawn
+[Warning: Unity Log] 04/27/2022 14:47:26: Missing audio clip in music respawn
 
-[Info   : Unity Log] 04/27/2022 14:28:20: Checking for installed DLCs
+[Info   : Unity Log] 04/27/2022 14:47:26: Checking for installed DLCs
 
-[Info   : Unity Log] 04/27/2022 14:28:20: DLC:beta installed:False
-
-[Info   : Unity Log] [PrefabCreator] Skipped recipe: LeatherQuiver
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ArrowWoodAnywhere
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FireArrowTransform
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_PoisonArrowTransform
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverArrowTransform
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FrostArrowTransform
-[Info   : Unity Log] 04/27/2022 14:28:20: Vis equip model set to 1
-
-[Info   : Unity Log] 04/27/2022 14:28:20: UI Group status changed Menu = False
-
-[Info   : Unity Log] 04/27/2022 14:28:21: Vis equip model set to 1
-
-[Info   : Unity Log] 04/27/2022 14:28:21: Vis equip model set to 1
-
-[Info   : Unity Log] 04/27/2022 14:28:24: UI Group status changed Menu = True
-
-[Info   : Unity Log] 04/27/2022 14:28:40: FOund selected StartGame
-
-[Info   : Unity Log] 04/27/2022 14:28:40: show character selection
-
-[Info   : Unity Log] 04/27/2022 14:28:43: Vis equip model set to 1
-
-[Info   : Unity Log] 04/27/2022 14:28:44: OnCharacterStart
-
-[Info   : Unity Log] 04/27/2022 14:28:45: UI Group status changed Panel = False
-
-[Info   : Unity Log] 04/27/2022 14:28:47: connect to ip:192.168.178.47 port:2456
-
-[Info   : Unity Log] 04/27/2022 14:28:49: Steam initialized, persona:dirtytomat0
-
-[Info   : Unity Log] 04/27/2022 14:28:49: Using default prefs
-
-[Info   : Unity Log] 04/27/2022 14:28:49: Loading player profile greeb
-
-[Info   : Unity Log] 04/27/2022 14:28:49: Zonesystem Awake 1632
-
-[Info   : Unity Log] 04/27/2022 14:28:49: DungeonDB Awake 1632
-
-[Info   : Unity Log] 04/27/2022 14:28:49: Steam initialized, persona:dirtytomat0
+[Info   : Unity Log] 04/27/2022 14:47:26: DLC:beta installed:False
 
 [Info   : Unity Log] [PrefabCreator] Skipped recipe: LeatherQuiver
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ArrowWoodAnywhere
@@ -218,66 +179,102 @@
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_PoisonArrowTransform
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverArrowTransform
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FrostArrowTransform
-[Info   : Unity Log] 04/27/2022 14:28:49: Audioman already exist, destroying self
+[Info   : Unity Log] 04/27/2022 14:47:26: Vis equip model set to 1
 
-[Info   : Unity Log] 04/27/2022 14:28:49: Checking for installed DLCs
+[Info   : Unity Log] 04/27/2022 14:47:26: Vis equip model set to 1
 
-[Info   : Unity Log] 04/27/2022 14:28:49: DLC:beta installed:False
+[Info   : Unity Log] 04/27/2022 14:47:26: UI Group status changed Menu = False
+
+[Info   : Unity Log] 04/27/2022 14:47:27: Vis equip model set to 1
+
+[Info   : Unity Log] 04/27/2022 14:47:27: Vis equip model set to 1
+
+[Info   : Unity Log] 04/27/2022 14:47:28: Vis equip model set to 1
+
+[Info   : Unity Log] 04/27/2022 14:47:30: UI Group status changed Menu = True
+
+[Info   : Unity Log] 04/27/2022 14:47:53: FOund selected StartGame
+
+[Info   : Unity Log] 04/27/2022 14:47:53: show character selection
+
+[Info   : Unity Log] 04/27/2022 14:47:54: OnCharacterStart
+
+[Info   : Unity Log] 04/27/2022 14:47:56: UI Group status changed Panel = False
+
+[Info   : Unity Log] 04/27/2022 14:47:56: connect to ip:192.168.178.47 port:2456
+
+[Info   : Unity Log] 04/27/2022 14:47:58: Steam initialized, persona:dirtytomat0
+
+[Info   : Unity Log] 04/27/2022 14:47:58: Using default prefs
+
+[Info   : Unity Log] 04/27/2022 14:47:58: Loading player profile greeb
+
+[Info   : Unity Log] 04/27/2022 14:47:58: Zonesystem Awake 1823
+
+[Info   : Unity Log] 04/27/2022 14:47:58: DungeonDB Awake 1823
+
+[Info   : Unity Log] 04/27/2022 14:47:58: Steam initialized, persona:dirtytomat0
+
+[Info   : Unity Log] [PrefabCreator] Skipped recipe: LeatherQuiver
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ArrowWoodAnywhere
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FireArrowTransform
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_PoisonArrowTransform
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverArrowTransform
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FrostArrowTransform
+[Info   : Unity Log] 04/27/2022 14:47:58: Audioman already exist, destroying self
+
+[Info   : Unity Log] 04/27/2022 14:47:58: Checking for installed DLCs
+
+[Info   : Unity Log] 04/27/2022 14:47:58: DLC:beta installed:False
 
 [Info   : Unity Log] Found randyknapp's "Equipment and quick slots" mod, so added 8 more slots
 [Info   :AzuAntiCheat] Registering ZRPCs
-[Info   : Unity Log] 04/27/2022 14:28:51: Zonesystem Start 1632
+[Info   : Unity Log] 04/27/2022 14:48:00: Zonesystem Start 1823
 
-[Info   : Unity Log] 04/27/2022 14:28:51: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups from locations_cp1
+[Info   : Unity Log] 04/27/2022 14:48:01: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups from locations_cp1
 
-[Info   : Unity Log] 04/27/2022 14:28:51: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups from locations_mountaincaves
+[Info   : Unity Log] 04/27/2022 14:48:01: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups from locations_mountaincaves
 
-[Info   : Unity Log] 04/27/2022 14:28:52: DungeonDB Start 1632
+[Info   : Unity Log] 04/27/2022 14:48:01: DungeonDB Start 1823
 
-[Info   : Unity Log] 04/27/2022 14:28:52: Connecting to server 192.168.178.47:2456
+[Info   : Unity Log] 04/27/2022 14:48:01: Connecting to server 192.168.178.47:2456
 
-[Info   : Unity Log] 04/27/2022 14:28:52: Starting to connect to 192.168.178.47:2456
+[Info   : Unity Log] 04/27/2022 14:48:01: Starting to connect to 192.168.178.47:2456
 
 [Message:AzuAntiCheat] Invoking version check
+[Info   : Unity Log] 04/27/2022 14:48:01: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 04/27/2022 14:48:01: New connection
+
+[Info   : Unity Log] 04/27/2022 14:48:02: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+
+[Info   : Unity Log] 04/27/2022 14:48:02: Connected
+
+[Info   : Unity Log] 04/27/2022 14:48:02: Got connection SteamID 90158547190150153
+
 [Message:AzuAntiCheat] Version check, server: 1.5.0,  mine: 1.5.0
 [Message:AzuAntiCheat] Received same version from server!
 [Message:AzuAntiCheat] Azumatt AntiCheat Version installed: 1.5.0 => Server Version: 1.5.0
-[Info   : Unity Log] 04/27/2022 14:28:52: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
-
-[Info   : Unity Log] 04/27/2022 14:28:52: New connection
-
-[Info   : Unity Log] 04/27/2022 14:28:52: Got status changed msg k_ESteamNetworkingConnectionState_Connected
-
-[Info   : Unity Log] 04/27/2022 14:28:52: Connected
-
-[Info   : Unity Log] 04/27/2022 14:28:52: Got connection SteamID 90158546936677381
-
 [Info   : Unity Log] Received 11 configs and 0 custom values from the server for mod AzuAntiCheat
 [Info   : Unity Log] Received 1 configs and 0 custom values from the server for mod OdinShip
 [Info   : Unity Log] Received 7 configs and 0 custom values from the server for mod Sailing
-[Info   : Unity Log] 04/27/2022 14:28:55: Session auth respons callback
+[Info   : Unity Log] 04/27/2022 14:48:06: Session auth respons callback
 
 [Info   : Unity Log] Received 5 configs and 0 custom values from the server for mod marlthon.OdinShip PieceManager
-[Info   : Unity Log] 04/27/2022 14:28:55: VERSION check their:0.208.1@0.9.9.8  mine:0.208.1@0.9.9.8
+[Info   : Unity Log] 04/27/2022 14:48:06: VERSION check their:0.208.1@0.9.9.8  mine:0.208.1@0.9.9.8
 
 [Info   :AzuAntiCheat] RequestingAnticheatBypass
-[Info   : Unity Log] 04/27/2022 14:28:58: -------------------- SENDING VPLUGCONFIGSYNC REQUEST
+[Info   : Unity Log] 04/27/2022 14:48:09: -------------------- SENDING VPLUGCONFIGSYNC REQUEST
 
-[Info   : Unity Log] 04/27/2022 14:28:58: client got keys 4
+[Info   : Unity Log] 04/27/2022 14:48:09: client got keys 4
 
-[Info   : Unity Log] 04/27/2022 14:28:58: client got location icons
+[Info   : Unity Log] 04/27/2022 14:48:09: client got location icons
 
-[Info   : Unity Log] 04/27/2022 14:28:58: Icons:1
+[Info   : Unity Log] 04/27/2022 14:48:09: Icons:1
 
-[Info   : Unity Log] 04/27/2022 14:29:05: Unpacking compressed mapdata 13650
+[Info   : Unity Log] 04/27/2022 14:48:16: Unpacking compressed mapdata 13634
 
-[Warning: Unity Log] 04/27/2022 14:29:05: Trying to add invalid pin type: 20
-
-[Warning: Unity Log] 04/27/2022 14:29:05: Trying to add invalid pin type: 21
-
-[Warning: Unity Log] 04/27/2022 14:29:05: Trying to add invalid pin type: 18
-
-[Info   : Unity Log] 04/27/2022 14:29:05: Starting respawn
+[Info   : Unity Log] 04/27/2022 14:48:16: Starting respawn
 
 [Message:AzuAntiCheat] Player DLLS LOADED
 [Info   : Unity Log] Loading config section AdvancedBuildingMode
@@ -593,140 +590,215 @@
 [Info   : Unity Log]  Section not enabled
 [Info   : Unity Log] Loading config section Chat
 [Info   : Unity Log]  Section not enabled
-[Info   : Unity Log] 04/27/2022 14:29:05: Successfully transpiled Pickable.RPC_Pick to patch item yields
+[Info   : Unity Log] 04/27/2022 14:48:17: Successfully transpiled Pickable.RPC_Pick to patch item yields
 
-[Info   : Unity Log] 04/27/2022 14:29:06: Successfully synced VPlus configuration from server.
+[Info   : Unity Log] 04/27/2022 14:48:17: Successfully synced VPlus configuration from server.
 
 [Info   :AzuAntiCheat] Server has Azumatt AntiCheat installed
-[Info   : Unity Log] 04/27/2022 14:29:06: tip:$loadscreen_tip02
+[Info   :AzuAntiCheat] Checking server for DLLs
+[Info   : Unity Log] 04/27/2022 14:48:17: tip:$loadscreen_tip16
 
-[Info   : Unity Log] 04/27/2022 14:29:09: Force generaeting hmap (512.0, 0.0, 512.0)
+[Info   : Unity Log] 04/27/2022 14:48:20: Force generaeting hmap (192.0, 0.0, 256.0)
 
-[Info   : Unity Log] 04/27/2022 14:29:09: Force generaeting hmap (512.0, 0.0, 576.0)
+[Info   : Unity Log] 04/27/2022 14:48:20: Force generaeting hmap (256.0, 0.0, 256.0)
 
-[Info   : Unity Log] 04/27/2022 14:29:13: Spawned after 8.019994
+[Info   : Unity Log] 04/27/2022 14:48:20: Force generaeting hmap (192.0, 0.0, 320.0)
 
-[Info   : Unity Log] 04/27/2022 14:29:13: Vis equip model set to 1
+[Info   : Unity Log] 04/27/2022 14:48:20: Force generaeting hmap (448.0, 0.0, 512.0)
 
-[Info   : Unity Log] 04/27/2022 14:29:13: -------------------- SENDING VPLUSMAPSYNC DATA
+[Info   : Unity Log] 04/27/2022 14:48:25: Spawned after 8.019994
 
-[Info   : Unity Log] 04/27/2022 14:29:13: Sent my map data to the server (698 map ranges, 1 chunks)
+[Info   : Unity Log] 04/27/2022 14:48:25: Vis equip model set to 1
 
-[Info   : Unity Log] 04/27/2022 14:29:13: Minimap: Adding unique location (65.6, 33.1, 4.9)
+[Info   : Unity Log] 04/27/2022 14:48:25: -------------------- SENDING VPLUSMAPSYNC DATA
 
-[Info   : Unity Log] 04/27/2022 14:29:14: I got 692 map ranges from the server!
+[Info   : Unity Log] 04/27/2022 14:48:25: Sent my map data to the server (693 map ranges, 1 chunks)
 
-[Info   : Unity Log] 04/27/2022 14:29:17: Setting selected recipe 0
+[Info   : Unity Log] 04/27/2022 14:48:25: Minimap: Adding unique location (65.6, 33.1, 4.9)
 
-[Info   : Unity Log] 04/27/2022 14:29:17: UI Group status changed root = True
+[Info   : Unity Log] 04/27/2022 14:48:25: I got 692 map ranges from the server!
 
-[Info   : Unity Log] 04/27/2022 14:29:17: UI Group status changed Player = True
+[Info   : Unity Log] 04/27/2022 14:48:27: Resumed music meadows at 0
 
-[Info   : Unity Log] 04/27/2022 14:29:17: UI Group status changed QuickSlotGrid = False
+[Info   : Unity Log] 04/27/2022 14:48:30: Got connectoin error msg 987654321
 
-[Info   : Unity Log] 04/27/2022 14:29:17: UI Group status changed EquipmentSlotGrid = False
+[Info   : Unity Log] 04/27/2022 14:48:30: Lost connection to server:987654321
 
-[Info   : Unity Log] 04/27/2022 14:29:31: Force generaeting hmap (192.0, 0.0, 256.0)
+[Info   : Unity Log] 04/27/2022 14:48:30: Shuting down
 
-[Info   : Unity Log] 04/27/2022 14:29:31: Force generaeting hmap (192.0, 0.0, 320.0)
+[Info   : Unity Log] 04/27/2022 14:48:30: Uncompressed size 8391264
 
-[Info   : Unity Log] 04/27/2022 14:29:40: Setting selected recipe 0
+[Info   : Unity Log] 04/27/2022 14:48:30: Compressed size 13634
 
-[Info   : Unity Log] 04/27/2022 14:29:40: Setting selected recipe 0
+[Info   : Unity Log] Loading config section AdvancedBuildingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section AdvancedEditingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Bed
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Beehive
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Building
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Deconstruct
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Inventory
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Items
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Fermenter
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FireSource
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Food
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Smelter
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Furnace
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Hotkeys
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Kiln
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Windmill
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section SpinningWheel
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Map
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Player
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Server
+[Info   : Unity Log]  Loading key maxPlayers
+[Info   : Unity Log]  Loading key disableServerPassword
+[Info   : Unity Log]  Loading key enforceMod
+[Info   : Unity Log]  Loading key serverSyncsConfig
+[Info   : Unity Log]  Loading key serverSyncHotkeys
+[Info   : Unity Log] Loading config section Stamina
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StaminaUsage
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Workbench
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Time
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Ward
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StructuralIntegrity
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Tameable
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Hud
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Experience
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Camera
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Game
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Wagon
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Gathering
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Pickable
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Durability
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Armor
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FreePlacementRotation
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Shields
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FirstPerson
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section GridAlignment
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section CraftFromChest
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section ValheimPlus
+[Info   : Unity Log]  Loading key mainMenuLogo
+[Info   : Unity Log]  Loading key serverBrowserAdvertisement
+[Info   : Unity Log] Loading config section PlayerProjectile
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section MonsterProjectile
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section GameClock
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Brightness
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Chat
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] 04/27/2022 14:48:31: ZNet Shutdown
 
-[Info   : Unity Log] 04/27/2022 14:29:40: UI Group status changed root = True
+[Info   : Unity Log] 04/27/2022 14:48:31: Sending disconnect msg
 
-[Info   : Unity Log] 04/27/2022 14:29:40: UI Group status changed Player = True
+[Info   : Unity Log] 04/27/2022 14:48:31: Sent to 90158547190150153
 
-[Info   : Unity Log] 04/27/2022 14:29:50: Player onboard, total onboard 1
+[Info   : Unity Log] 04/27/2022 14:48:31: Failed to send data k_EResultNoConnection
 
-[Info   : Unity Log] 04/27/2022 14:29:53: Doodad controlls set VikingShip(Clone)
+[Info   : Unity Log] 04/27/2022 14:48:31: Released session ticket
 
-[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
-Stack trace:
-AlweStats.EditingMode.ShowButton () (at <266eeb8ce11041348eb7fee7f7e0bec9>:0)
-AlweStats.Main+PluginPatches.PatchEscMenuUpdate () (at <266eeb8ce11041348eb7fee7f7e0bec9>:0)
-(wrapper dynamic-method) Menu.DMD<Menu::Update>(Menu)
+[Info   : Unity Log] 04/27/2022 14:48:31: Disposing socket
 
-[Info   : Unity Log] 04/27/2022 14:30:12: UI Group status changed MenuRoot = True
+[Info   : Unity Log] 04/27/2022 14:48:31: Closing socket 90158547190150153
 
-[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
-Stack trace:
-AlweStats.EditingMode.ShowButton () (at <266eeb8ce11041348eb7fee7f7e0bec9>:0)
-AlweStats.Main+PluginPatches.PatchEscMenuUpdate () (at <266eeb8ce11041348eb7fee7f7e0bec9>:0)
-(wrapper dynamic-method) Menu.DMD<Menu::Update>(Menu)
+[Info   : Unity Log] 04/27/2022 14:48:31: Failed to send data k_EResultNoConnection
 
-[Info   : Unity Log] 04/27/2022 14:30:13: Setting selected recipe 0
+[Info   : Unity Log] 04/27/2022 14:48:31:   send queue size:1
 
-[Info   : Unity Log] 04/27/2022 14:30:13: UI Group status changed root = True
+[Info   : Unity Log] 04/27/2022 14:48:31: Last socket, unregistering callback
 
-[Info   : Unity Log] 04/27/2022 14:30:13: UI Group status changed Player = True
+[Info   : Unity Log] 04/27/2022 14:48:31: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
 
-[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
-Stack trace:
-AlweStats.EditingMode.ShowButton () (at <266eeb8ce11041348eb7fee7f7e0bec9>:0)
-AlweStats.Main+PluginPatches.PatchEscMenuUpdate () (at <266eeb8ce11041348eb7fee7f7e0bec9>:0)
-(wrapper dynamic-method) Menu.DMD<Menu::Update>(Menu)
+[Info   : Unity Log] 04/27/2022 14:48:31: Disposing socket
 
-[Info   : Unity Log] 04/27/2022 14:30:55: Resumed music sailing at 0
+[Info   : Unity Log] 04/27/2022 14:48:31: Last socket, unregistering callback
 
-[Info   : Unity Log] 04/27/2022 14:31:09: Stopped music sailing at 593644
+[Info   : Unity Log] 04/27/2022 14:48:31: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
 
-[Info   : Unity Log] 04/27/2022 14:32:04: Resumed music sailing at 593644
+[Warning: Unity Log] 04/27/2022 14:48:31: Local player destroyed
 
-[Info   : Unity Log] 04/27/2022 14:33:27: Stop doodad controlls
+[Info   : Unity Log] The config file of AlweStats was reloaded successfully !
+[Info   : Unity Log] 04/27/2022 14:48:31: ZNet OnDestroy
 
-[Info   : Unity Log] 04/27/2022 14:33:28: Doodad controlls set VikingShip(Clone)
+[Info   : Unity Log] 04/27/2022 14:48:31: Net scene destroyed
 
-[Info   : Unity Log] 04/27/2022 14:33:43: Stopped music sailing at 4949547
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Info   : Unity Log] 04/27/2022 14:48:31: Steam initialized, persona:dirtytomat0
 
-[Info   : Unity Log] 04/27/2022 14:34:02: Resumed music sailing at 4949547
+[Info   : Unity Log] 04/27/2022 14:48:31: Using default prefs
 
-[Info   : Unity Log] 04/27/2022 14:34:36: Stopped music sailing at 6482110
+[Info   : Unity Log] 04/27/2022 14:48:31: Valheim version:0.208.1@0.9.9.8
 
-[Info   : Unity Log] 04/27/2022 14:34:42: Resumed music sailing at 6482110
+[Info   : Unity Log] 04/27/2022 14:48:31: Render threading mode:MultiThreaded
 
-[Info   : Unity Log] 04/27/2022 14:34:51: Stop doodad controlls
+[Info   : Unity Log] 04/27/2022 14:48:31: Audioman already exist, destroying self
 
-[Info   : Unity Log] 04/27/2022 14:35:33: Doodad controlls set VikingShip(Clone)
+[Info   : Unity Log] 04/27/2022 14:48:31: Checking for installed DLCs
 
-[Info   : Unity Log] 04/27/2022 14:35:44: Setting selected recipe 0
+[Info   : Unity Log] 04/27/2022 14:48:31: DLC:beta installed:False
 
-[Info   : Unity Log] 04/27/2022 14:35:44: UI Group status changed root = True
+[Info   : Unity Log] [PrefabCreator] Skipped recipe: LeatherQuiver
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ArrowWoodAnywhere
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FireArrowTransform
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_PoisonArrowTransform
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverArrowTransform
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FrostArrowTransform
+[Info   : Unity Log] 04/27/2022 14:48:32: Vis equip model set to 1
 
-[Info   : Unity Log] 04/27/2022 14:35:44: UI Group status changed Player = True
+[Info   : Unity Log] 04/27/2022 14:48:32: Vis equip model set to 1
 
-[Info   : Unity Log] 04/27/2022 14:35:52: FOund selected TabButton_Skills
+[Info   : Unity Log] 04/27/2022 14:48:32: UI Group status changed Menu = True
 
-[Info   : Unity Log] 04/27/2022 14:35:53: Force generaeting hmap (192.0, 0.0, 256.0)
+[Info   : Unity Log] 04/27/2022 14:48:32: Stopped music meadows at 251823
 
-[Info   : Unity Log] 04/27/2022 14:35:53: Force generaeting hmap (192.0, 0.0, 320.0)
+[Info   : Unity Log] 04/27/2022 14:48:32: Vis equip model set to 1
 
-[Info   : Unity Log] 04/27/2022 14:36:03: Force generaeting hmap (256.0, 0.0, 512.0)
+[Info   : Unity Log] 04/27/2022 14:48:33: Vis equip model set to 1
 
-[Info   : Unity Log] 04/27/2022 14:36:15: Setting selected recipe 0
+[Info   : Unity Log] 04/27/2022 14:48:34: Vis equip model set to 1
 
-[Info   : Unity Log] 04/27/2022 14:36:15: UI Group status changed root = True
-
-[Info   : Unity Log] 04/27/2022 14:36:15: UI Group status changed Player = True
-
-[Info   : Unity Log] 04/27/2022 14:36:24: Stopped music sailing at 10966903
-
-[Info   : Unity Log] 04/27/2022 14:36:33: Stop doodad controlls
-
-[Info   : Unity Log] 04/27/2022 14:36:34: Doodad controlls set VikingShip(Clone)
-
-[Info   : Unity Log] 04/27/2022 14:36:53: Stop doodad controlls
-
-[Info   : Unity Log] 04/27/2022 14:36:54: Doodad controlls set VikingShip(Clone)
-
-[Info   : Unity Log] 04/27/2022 14:36:56: Stop doodad controlls
-
-[Info   : Unity Log] 04/27/2022 14:36:56: Resumed music sailing at 10966903
-
-[Info   : Unity Log] 04/27/2022 14:37:08: Stopped music sailing at 11467408
-
-[Info   : Unity Log] 04/27/2022 14:37:10: Force generaeting hmap (384.0, 0.0, 576.0)
-
-[Info   : Unity Log] 04/27/2022 14:37:19: Player over board, players left 0
+[Warning:  HarmonyX] UnpatchAll has been called - This will remove ALL HARMONY PATCHES.
+[Info   : Unity Log] 04/27/2022 14:48:35: Steam manager on destroy
 

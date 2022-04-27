@@ -1,3 +1,4 @@
+AutoFuel.dll
 AlweStats.dll
 AzuAntiCheat.dll
 FarmGrid.dll
