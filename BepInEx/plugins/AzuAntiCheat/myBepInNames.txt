@@ -5,16 +5,22 @@ FarmGrid
 Jotunn
 ValheimRAFT
 FloatingItems
+Valweed
+PreventAccidentalInteraction
 Use Equipment in Water
 MultiUserChest
+Dream's Data Rate Modifier
 Project Auga
 Better Archery
 PlanBuild
 OdinShip
 AllTameable-Overhaul
+Gravekeeper
 BeastsOfBurden
+Farming
 Sailing
 Valheim Plus
 Mod Config Enforcer
 Advanced Boating
 Equipment and Quick Slots
+MassFarming
