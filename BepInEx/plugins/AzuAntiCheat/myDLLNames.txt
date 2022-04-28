@@ -8,6 +8,7 @@ Valweed.dll
 PreventAccidentalInteraction.dll
 UseEquipmentInWater.dll
 MultiUserChest.dll
+modify_data_rate.dll
 Auga.dll
 BetterArchery.dll
 PlanBuild.dll
