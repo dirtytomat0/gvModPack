@@ -2,20 +2,18 @@ AlweStats
 AzuAntiCheat
 CraftyCarts
 FarmGrid
-Jotunn
-ValheimRAFT
 FloatingItems
+Jotunn
 Valweed
 PreventAccidentalInteraction
 Use Equipment in Water
 MultiUserChest
-Dream's Data Rate Modifier
 Project Auga
 Better Archery
 PlanBuild
 OdinShip
 AllTameable-Overhaul
-Gravekeeper
+QuickConnect
 BeastsOfBurden
 Farming
 Sailing
