@@ -8,7 +8,7 @@ Valweed
 PreventAccidentalInteraction
 Use Equipment in Water
 MultiUserChest
-Dream's Data Rate Modifier
+Better Networking
 Project Auga
 Better Archery
 PlanBuild
